@@ -3,4 +3,8 @@ bbbbbb
 cccccc
 dddddd
 eeeeee
+<<<<<<< HEAD
 gggggg
+=======
+ffffff
+>>>>>>> fenzhi1
